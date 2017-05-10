@@ -1,0 +1,6 @@
+9.5.2017 - Found out we're apparently cancelling the group project we were working on so starting on the Linux assignment.
+10.5.2017 - Still trying to figure this out but having some problems with the virtualbox system
+Can't get the computers to detect each other, have set up multiple servers but nothing seems to be working. 
+Decided to just try to set up the Apache web thing and mailing list stuff.
+Can't seem to be able to get the domain to work with localhost, when typing stefan.local into the address bar just gets nothing but using https://localhost, seems to be working.
+Just gonna try to get help with this, can't make a lot of progress in one night since I hadn't prepared at all for this since I thought we were gonna do the group project thing.
